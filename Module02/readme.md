@@ -10,6 +10,7 @@
 ### Загрузка данных в БД
  - В БД загрузил "сырые" данные в staging слой из файла [stg.orders.sql](https://github.com/allo163/DE-101/blob/main/Module02/stg.orders.sql)
 -------------------------------------
-### Нарисовать модель данных в SQLdbm
+### Нарисовать модель данных в [SQLdbm](https://sqldbm.com/)
+ - Сформировал и нарисовал в SQLdbm ![*Концептуальную модель БД*](https://github.com/allo163/DE-101/blob/main/Module02/concept%20model.jpg)
 ### Нарисовать графики в Google Sheets
 ### Нарисовать графики в KlipFolio
