@@ -12,5 +12,8 @@
 -------------------------------------
 ### Нарисовать модель данных в [SQLdbm](https://sqldbm.com/)
  - Сформировал и нарисовал в SQLdbm *Концептуальную модель БД* ![](https://github.com/allo163/DE-101/blob/main/Module02/concept%20model.jpg "Концептуальная модель")
+ - Сформировал и нарисовал в SQLdbm *Логическую и физическую модель БД* ![](https://github.com/allo163/DE-101/blob/main/Module02/logical%20(%2Bphisical)%20model.jpg "физическая модель")
+ - Создал SQL файл на основе полученной модели [from_stg_to_dw](https://github.com/allo163/DE-101/blob/main/Module02/from_stg_to_dw.sql) для создания dimention слоя БД и заполнил данными из таблиц oreders, people, returns.
+---------------------------------
 ### Нарисовать графики в Google Sheets
 ### Нарисовать графики в KlipFolio
